@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.aa{
+    text-decoration: none;
+}
+.si{
+    text-decoration: none;
+}
+
+body{
+    background-color: #CCCCFF;
+}
+
+.avion{
+    border-radius: 1rem;
+    padding: 300px;
+    width: 100%;
+    border-style: groove;
+}
+.auxv{
+    border-radius: 1rem;
+    padding: 300px;
+    width: 100%;
+    border-style: groove;
+}

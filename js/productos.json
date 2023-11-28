@@ -1,0 +1,47 @@
+[
+    {
+        "tipo": "Comida a bordo",
+        "nombre": "Bebidas",
+        "Precio": 8000
+    },
+    {
+        "tipo": "Comida a bordo",
+        "nombre": "Platos Fuertes",
+        "Precio": 20000
+    },
+    {
+        "tipo": "Comida a bordo",
+        "nombre": "Galgerias",
+        "Precio": 10000
+    },
+    {
+        "tipo": "Comodidad en su vuelo",
+        "nombre": "Mini-almohada",
+        "Precio": 7000
+    },
+    {
+        "tipo": "Comodidad en su vuelo",
+        "nombre": "Cobija",
+        "Precio": 7000
+    },
+    {
+        "tipo": "Comodidad en su vuelo",
+        "nombre": "Antifaz",
+        "Precio": 3000
+    },
+    {
+        "tipo": "Streaming a bordo",
+        "nombre": "Peliculas",
+        "Precio": 5000
+    },
+    {
+        "tipo": "Streaming a bordo",
+        "nombre": "Series",
+        "Precio": 6000
+    },
+    {
+        "tipo": "Streaming a bordo",
+        "nombre": "Música",
+        "Precio": 5000
+    }
+]

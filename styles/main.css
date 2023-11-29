@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -6,24 +6,26 @@
 
 }
 
-.aa{
-    text-decoration: none;
-}
-.si{
+.aa {
     text-decoration: none;
 }
 
-body{
+.si {
+    text-decoration: none;
+}
+
+body {
     background-color: #CCCCFF;
 }
 
-.avion{
+.avion {
     border-radius: 1rem;
     padding: 300px;
     width: 100%;
     border-style: groove;
 }
-.auxv{
+
+.auxv {
     border-radius: 1rem;
     padding: 300px;
     width: 100%;

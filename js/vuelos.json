@@ -2,39 +2,76 @@
     {
         "origen": "Colombia",
         "destino": "Argentina",
-        "fecha ida": 25112023,
-        "fecha regreso": 29122023,
-        "precio":280
+        "precio": 480
+    },
+    {
+        "origen": "Argentina",
+        "destino": "Colombia",
+        "precio": 450
     },
     {
         "origen": "Chile",
         "destino": "Perú",
-        "fecha ida": 11032024,
-        "fecha regreso": 30052024,
-        "precio":500
-    },  {
+        "precio": 540
+    },
+    {
+        "origen": "Perú",
+        "destino": "Chile",
+        "precio": 520
+    },
+    {
         "origen": "Uruguay",
         "destino": "Brasil",
-        "fecha ida": 5042024,
-        "fecha regreso": 10082024,
-        "precio":680
-
-    }, 
-     {
+        "precio": 680
+    },
+    {
+        "origen": "Brasil",
+        "destino": "Uruguay",
+        "precio": 640
+    },
+    {
         "origen": "Chile",
         "destino": "Argentina",
-        "fecha ida": 24122024,
-        "fecha regreso": 5012025,
-        "precio":800
-    }
-    , 
-     {
-        "origen": "Chile",
-        "destino": "Uruguay",
-        "fecha ida": 30122023,
-        "fecha regreso": 29022024,
+        "precio": 300
+    },
+    {
+        "origen": "Argentina",
+        "destino": "Chile",
         "precio": 280
-
+    },
+    {
+        "origen": "Uruguay",
+        "destino": "Brasil",
+        "precio": 680
+    },
+    {
+        "origen": "Colombia",
+        "destino": "Brasil",
+        "precio": 780
+    },
+    {
+        "origen": "Brasil",
+        "destino": "Colombia",
+        "precio": 730
+    },
+    {
+        "origen": "Colombia",
+        "destino": "Uruguay",
+        "precio": 680
+    },
+    {
+        "origen": "Uruguay",
+        "destino": "Colombia",
+        "precio": 630
+    },
+    {
+        "origen": "Argentina",
+        "destino": "Brasil",
+        "precio": 450
+    },
+    {
+        "origen": "Brasil",
+        "destino": "Argentina",
+        "precio": 420
     }
-   
 ]
